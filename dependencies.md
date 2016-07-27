@@ -1,5 +1,5 @@
 # Google Apps Script Project: ImageSwapper
-This repo (ImageSwapper) was automatically updated on 05 April 2016 11:54:59 BST by GasGit
+This repo (ImageSwapper) was automatically updated on 27 July 2016 10:36:41 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project ImageSwapper
