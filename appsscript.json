@@ -4,8 +4,9 @@
     "libraries": [{
       "userSymbol": "cUseful",
       "libraryId": "1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex",
-      "version": "51"
+      "version": "132"
     }]
   },
-  "exceptionLogging": "STACKDRIVER"
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
 }
