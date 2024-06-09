@@ -6,6 +6,7 @@ var SwapperEnums =  {
  
 };
 
+
 function imageSwapper () {
 
   var params = {
@@ -26,6 +27,8 @@ function imageSwapper () {
   // specify the starting path of the folder to look ( you can sepcify the id if you prefer)
   // the type of files
   // and whether to recurse (look in lower level paths)
+  //
+  
  var piles = cUseful.DriveUtils
  .setService(DriveApp)
  .getPileOfFiles (
